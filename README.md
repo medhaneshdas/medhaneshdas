@@ -35,7 +35,7 @@ I am a BSc IT student passionate about Artificial Intelligence, Machine Learning
 
 ## Connect with Me
 
-- LinkedIn (Coming Soon)
+- LinkedIn https://www.linkedin.com/in/dhaneshdas
 - Portfolio Website (Coming Soon)
 
 ---
