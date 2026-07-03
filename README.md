@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Dhanesh Das
 
-<!--
-**medhaneshdas/medhaneshdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Machine Learning Developer
 
-Here are some ideas to get you started:
+I am a BSc IT student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Python Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Machine Learning
+- Scikit-learn
+- Streamlit
+- FastAPI
+- PostgreSQL
+- SQL
+- Power BI
+- Git & GitHub
+- Data Analytics
+
+## Current Focus
+
+- AI Engineering
+- Python Automation
+- Streamlit Applications
+- Freelancing
+- Open Source Contributions
+
+## Projects
+
+- Smart Inhaler AI System
+- Customer Churn Prediction
+- Sales Dashboard
+- AI Resume Screening
+- Inventory Management System
+
+## Connect with Me
+
+- LinkedIn (Coming Soon)
+- Portfolio Website (Coming Soon)
+
+---
+⭐ Always learning and building.
